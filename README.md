@@ -25,8 +25,6 @@ Controller acts on both model and view. It controls the data flow into model obj
 
 ## Introduction To Struts 2
 
-![Image of Struts MVC Framework](https://github.com/dileepdail/Struts2-Project/blob/master/StrutsMVC.png)
-
 The struts 2 framework is used to develop MVC-based web application.  
   
 The Struts 2 framework is used to develop MVC (Model View Controller) based web applications. Struts 2 is the combination of webwork framework of opensymphony and struts 1.  
@@ -70,6 +68,16 @@ Link: https://github.com/dileepdail/Servlet-And-JSP-Projects#configure-tomcat-in
     * Finish
     
 ## Writing a Struts 2 Application
+
+###### Main Componets:
+1. Action Class
+  - Default method of Action class is execute()
+2. JSP
+3. Struts 2 XML
+  - Controls the execution flow of requests
+  - Input: URL
+  - Input maps to Action Classes and JSPs
+
 
 
 
