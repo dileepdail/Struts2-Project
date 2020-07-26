@@ -66,4 +66,8 @@ Link: https://github.com/dileepdail/Servlet-And-JSP-Projects#configure-tomcat-in
     * Select Java Build Path Entries
     * Select the library i.e. Struts2
     * Finish
+    
+## Writing a Struts 2 Application
+
+
 
