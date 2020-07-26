@@ -31,3 +31,22 @@ The Struts 2 framework is used to develop MVC (Model View Controller) based web 
   
 The Struts 2 provides supports to POJO based actions, Validation Support, AJAX Support, Integration support to various frameworks such as Hibernate, Spring, Tiles etc, support to various result types such as Freemarker, Velocity, JSP etc.
 
+
+## Setting Up
+
+###### Download Struts 2
+Link: https://struts.apache.org/
+
+###### Create Project
+
+*Install server like Apache if not already installed
+Link: https://github.com/dileepdail/Servlet-And-JSP-Projects#configure-tomcat-in-eclipse
+
+1. Click new Project
+2. Enter Dynamic Web Project
+3. Click next, next
+4. Change Content directory to web
+5. Check generate web.xml
+6. Add
+
+
