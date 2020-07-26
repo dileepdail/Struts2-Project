@@ -58,5 +58,12 @@ Link: https://github.com/dileepdail/Servlet-And-JSP-Projects#configure-tomcat-in
     * Enter name. Eg. Struts2
     * Add JARS from dwonload folder from Struts website. Can select all
     * Apply and close all
-
+7. Link this new library in default lib folder
+    * Click right click on project
+    * Select properties
+    * Select Deployment Assembly
+    * Click Add on the right
+    * Select Java Build Path Entries
+    * Select the library i.e. Struts2
+    * Finish
 
