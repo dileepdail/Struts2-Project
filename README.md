@@ -12,3 +12,22 @@ View represents the visualization of the data that model contains.
 
 ###### Controller
 Controller acts on both model and view. It controls the data flow into model object and updates the view whenever data changes. It keeps view and model separate.
+
+###### Popular Java Web MVC Frameworks
+
+1. Struts
+2. Struts 2
+3. Spring MVC
+4. JSF
+5. Play
+6. Wicket
+
+
+## Introduction To Struts 2
+
+The struts 2 framework is used to develop MVC-based web application.  
+  
+The Struts 2 framework is used to develop MVC (Model View Controller) based web applications. Struts 2 is the combination of webwork framework of opensymphony and struts 1.  
+  
+The Struts 2 provides supports to POJO based actions, Validation Support, AJAX Support, Integration support to various frameworks such as Hibernate, Spring, Tiles etc, support to various result types such as Freemarker, Velocity, JSP etc.
+
