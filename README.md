@@ -25,7 +25,7 @@ Controller acts on both model and view. It controls the data flow into model obj
 
 ## Introduction To Struts 2
 
-![Image of Struts MVC](https://github.com/dileepdail/Struts2-Project/blob/master/StrutsMVC.png)
+![Image of Struts MVC Framework](https://github.com/dileepdail/Struts2-Project/blob/master/StrutsMVC.png)
 
 The struts 2 framework is used to develop MVC-based web application.  
   
