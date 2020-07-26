@@ -47,6 +47,16 @@ Link: https://github.com/dileepdail/Servlet-And-JSP-Projects#configure-tomcat-in
 3. Click next, next
 4. Change Content directory to web
 5. Check generate web.xml
-6. Add
+6. Add custom user library for Struts JARs
+  a. Click right click on project
+  b. Select properties
+  c. Select Java Build Path
+  d. Click on Libraries TAB from top
+  e. Select Add libraries on right
+  f. Select User library from list
+  g. Click new 
+  h. Enter name. Eg. Struts2
+  i. Add JARS from dwonload folder from Struts website. Can select all
+  j. Apply and close all
 
 
